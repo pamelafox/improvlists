@@ -2,7 +2,7 @@ This is a collection of games that may work in a video conference setting. They'
 
 Poetry/Rhyme:
 * [Setup and Payoff](../games/Game:-Setup-and-Payoff.md)
-* [Beastie Boys Rap](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Beastie-Boys-Rap.md)
+* [Beastie Boys Rap](/blob/master/games/Game:-Beastie-Boys-Rap.md)
 * [I'm digging a hole!](https://github.com/pamelafox/improvlists/blob/master/games/Game:-I'm-Digging-a-Hole!.md) (Might be too physical?)
 
 Storytelling:
