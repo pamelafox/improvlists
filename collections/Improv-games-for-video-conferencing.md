@@ -1,7 +1,7 @@
 This is a collection of games that may work in a video conference setting. They're generally generative verbal games, since physicality is hard over video conference. Many of these assume the ability to create a virtual "circle" so that you know the order of who goes after who. Some of them may be pair games.
 
 Poetry/Rhyme:
-* [Setup and Payoff](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Setup-and-Payoff.md)
+* [Setup and Payoff](../games/Game:-Setup-and-Payoff.md)
 * [Beastie Boys Rap](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Beastie-Boys-Rap.md)
 * [I'm digging a hole!](https://github.com/pamelafox/improvlists/blob/master/games/Game:-I'm-Digging-a-Hole!.md) (Might be too physical?)
 
