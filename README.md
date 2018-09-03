@@ -6,9 +6,11 @@ This project provides instructions and setlists for dozens of improv games.
 
 [Browse them here.](https://github.com/pamelafox/improvlists/tree/master/games)
 
+***
+
 ## Collections
 
-* [Games for Video-Conferencing](https://github.com/pamelafox/improvlists/blob/master/setlists/Improv-games-for-video-conferencing.md)
+* [Games for Video-Conferencing](https://github.com/pamelafox/improvlists/blob/master/collections/Improv-games-for-video-conferencing.md)
 
 ***
 
