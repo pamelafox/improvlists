@@ -7,6 +7,6 @@ Directions:
 4. Another player shares a story, either related to the word or the last story told.
 5. After they've shared 3-5 stories, the players clear the living room and line up on the side of the stage.
 6. Now the players are ready to start making up scenes, inspired by the stories shared in the living room.
-7. Follow up with a [Scene Montage](https://github.com/pamelafox/improvlists/wiki/Game:-Scene-Montage).
+7. Follow up with a [Scene Montage](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Scene-Montage.md).
 
 #IdeaGenerator 

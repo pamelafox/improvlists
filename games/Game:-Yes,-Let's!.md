@@ -6,6 +6,6 @@ Directions:
 
 Note: Each directive typically lasts around ~10 seconds.
 
-This is similar to [Goddess of Creation](https://github.com/pamelafox/improvlists/wiki/Game:-Goddess-of-Creation,-Make-me-a...)
+This is similar to [Goddess of Creation](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Goddess-of-Creation%2C-Make-me-a....md)
 
 #GroupGame

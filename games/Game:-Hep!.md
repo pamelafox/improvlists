@@ -1,4 +1,4 @@
-Nearly the same game as [Oi, Oi, Oi](https://github.com/pamelafox/improvlists/wiki/Game:-Oi,-Oi,-Oi,-Steady!).
+Nearly the same game as [Oi, Oi, Oi](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Oi,-Oi,-Oi,-Steady!.md).
 
 Directions:
 1. Everyone stands in a circle.

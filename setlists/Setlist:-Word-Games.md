@@ -1,10 +1,10 @@
-1. [Stretch & Share](https://github.com/pamelafox/improvlists/wiki/Game:-Stretch-&-Share)
-2. [Profiglione](https://github.com/pamelafox/improvlists/wiki/Game:-Profiglione)
-3. [Email writing](https://github.com/pamelafox/improvlists/wiki/Game:-Email-Writing)
-4. [Casanova](https://github.com/pamelafox/improvlists/wiki/Game:-Casanova)
-5. [Setup and Payoff](https://github.com/pamelafox/improvlists/wiki/Game:-Setup-and-Payoff)
-6. [Dramatic Poem](https://github.com/pamelafox/improvlists/wiki/Game:-Dramatic-Poem)
-7. [The Debate Game](https://github.com/pamelafox/improvlists/wiki/Game:-The-Debate-Game)
-8. [Colonel Kosai](https://github.com/pamelafox/improvlists/wiki/Game:-Colonel-Kosai-(Words-of-Wisdom))
+1. [Stretch & Share](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Stretch-&-Share.md)
+2. [Profiglione](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Profiglione.md)
+3. [Email writing](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Email-Writing.md)
+4. [Casanova](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Casanova.md)
+5. [Setup and Payoff](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Setup-and-Payoff.md)
+6. [Dramatic Poem](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Dramatic-Poem.md)
+7. [The Debate Game](https://github.com/pamelafox/improvlists/blob/master/games/Game:-The-Debate-Game.md)
+8. [Colonel Kosai](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Colonel-Kosai-(Words-of-Wisdom.md).md)
 
 Source: Improv Club, June 1

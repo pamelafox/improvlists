@@ -1,4 +1,4 @@
-It's good to ramp up to this game by first going through [Setup and Payoff](https://github.com/pamelafox/improvlists/wiki/Game:-Setup-and-Payoff).
+It's good to ramp up to this game by first going through [Setup and Payoff](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Setup-and-Payoff.md).
 
 Directions:
 1. Four players go up on stage.

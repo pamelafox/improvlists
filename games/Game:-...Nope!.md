@@ -2,7 +2,7 @@ These "Nope" games are designed to give improvisers a better sense of what sugge
 
 Prereqs:
 
-1. Start with a round of [What comes next?](https://github.com/pamelafox/improvlists/wiki/Game:-What-comes-next%3F).
+1. Start with a round of [What comes next?](https://github.com/pamelafox/improvlists/blob/master/games/Game:-What-comes-next%3F.md).
 2. Then get everyone to practice saying "Nope!" in a non-threatening way: high voice, wide-eyed.
 
 Variant #1: Audience 
@@ -10,7 +10,7 @@ Variant #1: Audience
 2. If the puppet doesn't like the suggestion, they can say "Nope!" and await another suggestion.
 
 Variant #2: Master-Puppet
-1. One person goes on stage as the puppet. Another person joins them as the master. (Optionally, the master can also act alongside the puppet, in a "We" adventure, like in [We are.. Suddenly!](https://github.com/pamelafox/improvlists/wiki/Game:-We-are...-Suddenly!)).
+1. One person goes on stage as the puppet. Another person joins them as the master. (Optionally, the master can also act alongside the puppet, in a "We" adventure, like in [We are.. Suddenly!](https://github.com/pamelafox/improvlists/blob/master/games/Game:-We-are...-Suddenly!.md)).
 2. The puppet plays "What comes next?", asking the master each time and saying "Nope!" when they feel like it.
 
 Variant #3: 2 Masters

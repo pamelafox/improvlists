@@ -1,4 +1,4 @@
-This is a way of presenting a series of scenes, usually seeded by an idea generator like [The Living Room](https://github.com/pamelafox/improvlists/wiki/Game:-The-Living-Room-(Idea-Generator)).
+This is a way of presenting a series of scenes, usually seeded by an idea generator like [The Living Room](https://github.com/pamelafox/improvlists/blob/master/games/Game:-The-Living-Room-(Idea-Generator).md).
 
 Directions:
 1. The players wait on the side of the stage.

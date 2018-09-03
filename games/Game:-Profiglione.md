@@ -1,4 +1,4 @@
-Nearly the same game as [Hep](https://github.com/pamelafox/improvlists/wiki/Game:-Hep!).
+Nearly the same game as [Hep](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Hep!.md).
 You can add in the additional rules over time based on how the group is doing.
 
 Directions:
