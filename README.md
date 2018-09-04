@@ -61,4 +61,7 @@ Inspired by Berkeley Rep class with Bobby August.
 These are not particularly thematic setlists.
 
 * [Focusing Scenes](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Focusing-Scenes.md)
+* [Mimes & Space Objects](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Mimes-%26-Space-Objects.md)
+* [Expect the Unexpected](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Expect-The-Unexpected.md)
+* [Let's Work Together!](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Let's-Work-Together.md)
 
