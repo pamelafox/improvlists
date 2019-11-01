@@ -25,4 +25,7 @@ Other Generative Verbal Games:
 * [That Busted Tee](../games/Game:-That-Busted-Tee.md)
 * [Good Advice, Bad Advice, Worst Advice](../games/Game:-Good-Advice,-Bad-Advice,-Worst-Advice.md)
 
+Physical (head/hand only):
+* [Dolphin training](../games/Game:-Dolphin-Training.md)
+
 If you try any of these over video conference, please report back on which worked well for you.
