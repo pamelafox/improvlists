@@ -3,7 +3,7 @@
 3. [Oi, Oi, Oi, Steady!](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Oi,-Oi,-Oi,-Steady!.md)
 4. [That Busted Tee](https://github.com/pamelafox/improvlists/blob/master/games/Game:-That-Busted-Tee.md)
 5. [Build A Dance](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Build-A-Dance.md)
-6. [Yes, And... Product Factory](https://github.com/pamelafox/improvlists/blob/master/games/Game%3A-Yes%2C-And...-Product-Factory.md)
+6. [Yes, And... Product Factory](https://github.com/pamelafox/improvlists/blob/master/games/Game-Yes-And-Product-Factory.md)
 7. [Convergence](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Convergence.md)
 8. [2-Headed Monster](https://github.com/pamelafox/improvlists/blob/master/games/Game:-2-Headed-Monster.md)
 9. [Slides](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Slides-(TEDxImprov.md).md)

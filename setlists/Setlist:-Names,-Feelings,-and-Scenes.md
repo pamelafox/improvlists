@@ -1,6 +1,6 @@
 * [Stretch & Share](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Stretch-&-Share.md)
 * [Soundball (HelloBall.md)](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Soundball.md)
-* [Yes, And... Product Factory](https://github.com/pamelafox/improvlists/blob/master/games/Game%3A-Yes%2C-And...-Product-Factory.md)
+* [Yes, And... Product Factory](https://github.com/pamelafox/improvlists/blob/master/games/Game-Yes-And-Product-Factory.md)
 * [They said...](https://github.com/pamelafox/improvlists/blob/master/games/Game:-They-said....md)
 * [Talkle While You Work](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Talkle-While-You-Work.md)
 * [The Living Room](https://github.com/pamelafox/improvlists/blob/master/games/Game:-The-Living-Room-(Idea-Generator.md).md)
