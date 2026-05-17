@@ -6,4 +6,4 @@
 6. [Yes, Let's!](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Yes,-Let's!.md)
 7. [I'm a tree](https://github.com/pamelafox/improvlists/blob/master/games/Game:-I-Am-A-Tree!.md)
 8. [Convergence](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Convergence.md)
-9. [Colonel Kosai](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Colonel-Kosai-(Words-of-Wisdom).md)
+9. [Colonel Kosai](https://github.com/pamelafox/improvlists/blob/master/games/Game:-Colonel-Kosai-%28Words-of-Wisdom%29.md)
