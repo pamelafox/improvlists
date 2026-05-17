@@ -21,7 +21,7 @@ Word-at-a-time:
 
 Other Generative Verbal Games:
 * [3 Things](../games/Game:-3-Things!.md)
-* [Yes, And Product Factory](../games/Game:-Yes,-And...-Product-Factory.md)
+* [Yes, And Product Factory](../games/Game-Yes-And-Product-Factory.md)
 * [That Busted Tee](../games/Game:-That-Busted-Tee.md)
 * [Good Advice, Bad Advice, Worst Advice](../games/Game:-Good-Advice,-Bad-Advice,-Worst-Advice.md)
 

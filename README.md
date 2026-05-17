@@ -19,6 +19,7 @@ This project provides instructions and setlists for dozens of improv games.
 These are setlists of improv games. You can use these to run improv clubs with friends or colleagues, or to run one-off improv workshops.
 
 **Themes:**
+* [Intro to Improv](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Intro-to-Improv.md)
 * [Counting Scenes](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Counting-Scenes.md)
 * [Genres](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Genres.md)
 * [Collaboration](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Collaboration.md)
@@ -64,4 +65,3 @@ These are not particularly thematic setlists.
 * [Mimes & Space Objects](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Mimes-%26-Space-Objects.md)
 * [Expect the Unexpected](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Expect-The-Unexpected.md)
 * [Let's Work Together!](https://github.com/pamelafox/improvlists/blob/master/setlists/Setlist:-Let's-Work-Together.md)
-
